@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "345269922939",
+    "project_id": "gaviles-f",
+    "storage_bucket": "gaviles-f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345269922939:android:3f02e88d1be97f284486de",
+        "android_client_info": {
+          "package_name": "com.germaine.f_run_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345269922939-88vav4j73j3c04sugqra0tfshu4457tr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtDB0paF5sHwIU5U1OSG_uqbUsITMJVTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345269922939-88vav4j73j3c04sugqra0tfshu4457tr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
